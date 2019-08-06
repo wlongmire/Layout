@@ -1,0 +1,33 @@
+body {
+  box-sizing: content-box;
+}
+.display1, .display3 {
+  color:grey;
+}
+
+.display1 {
+  font-size:80px;
+}
+
+.display3 {
+  font-size:50px;
+}
+
+#imageJumbotron {
+  background: url("https://png.pngtree.com/back_origin_pic/03/59/98/0459a247ede9eebb039297541d775cd2.jpg");
+  color:white;
+}
+
+#lowHangingContainer {
+  background: rgb(150, 31, 130);
+  color:white;
+}
+
+#lowHanging {
+  font-size:60px;
+  background: violet;
+}
+
+.lowBox {
+  border: 4px solid rgb(150, 31, 130);
+}
